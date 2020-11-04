@@ -5,7 +5,7 @@ The average time between service request submission and fulfillment is 32 days. 
 
 When it comes to fulfilling your service requests, how would you rate your IT department? Any time you submit a formal request for information technology -a new computer, access to an online portal or another service, a new version of a software program or information on how to use it- your IT department should have the ability to plan for these requests, even automate the fulfillment workflow, and give you a positive service experience.
 
-This problem can be addressed using NLP and automate the toughtest job at hand, To send requests to correct team.
+This problem can be addressed using NLP and automate the toughtest job at hand, To send requests to correct team. 
 
 The notebook has a deepdive of the implementation and EDA and checking various options, however, DeepLearning works best with NLP.
 Notebook is here [Click](https://github.com/saianil58/NLP/blob/main/Service%20Request%20Classification/Notebooks/Service%20Request%20Classification.ipynb)
